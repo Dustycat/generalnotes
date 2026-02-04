@@ -12,10 +12,11 @@
 8. Order of Battle (Slitherine) - Possibly free for base game and expansions are $15 each. Can play Rising Sun? Operational level game
 
 Realtime games
-1) Steel Division 2
+1) Steel Division 2 (large scale war)
 2) Steel Division Normandy
-3) Wargame Red Dragon
-4) Warno
+3) Combat Missions - Smaller size (company level?)
+4) Wargame Red Dragon
+5) Warno
 # Panzer General Related Games
 
 Graphics may be a little dated
