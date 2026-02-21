@@ -2,6 +2,7 @@ Fidelity
 
 SPAXX ~4%
 
+![[Pasted image 20260203180335.png]]
 # FX vs VOO
 
 - Overall Summary: 

@@ -1,6 +1,6 @@
 Resource: 
+* https://www.youtube.com/watch?v=MvLSpKlJyFg
 * youtube.com/shorts/vB6E0dodCmo?feature=share
-* https://www.youtube.com/watch?v=Mz3q6Xc_Dpw
 
 1. Short bob haircut
 2. Divide hair
