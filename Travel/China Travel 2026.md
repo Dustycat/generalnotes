@@ -1,74 +1,70 @@
+# Apps
+* Didi for travel
+* Wechat + Wechat pay
+* Aliipay
+* Amap or baidu ma
 
+# Items
+
+* earplugs
+
+
+# TODO
+* Subway for Beijing/Chengdu
+* Setup apps
+* Reserve ticket for Forbidden City
+* Reserve hotel and travel 
 # Beijing
 
+## Day 0 Arrival
+* Check allipay and credit cards
+* Internet
+* Possibly buy esim
+* Buy powerbank
+* 
+
+## Day 1 City North
 * Tiananmen Square + Forbidden City + Jingshan park
 * National Museum of China
-* Temple of Heaven
+## Day 2 Great Wall
+
 * Great Wall of China - Go really early (630am? before the tour bus)
-	* Mutianyu is generally the top recommendation for a balance of stunning, restored views, fewer crowds than Badaling, and fun activities like a toboggan ride. 1.5 to 2 hrs from Beijing
-	* **[Jinshanling](https://www.google.com/search?q=Jinshanling&rlz=1C1UEAD_enUS1076US1076&oq=which+great+wall+&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyCggBEEUYFhgeGDkyDQgCEAAYkQIYgAQYigUyBwgDEAAYgAQyCAgEEAAYFhgeMggIBRAAGBYYHjIICAYQABgWGB4yCAgHEAAYFhgeMggICBAAGBYYHjIICAkQABgWGB7SAQgzNjE2ajBqOagCALACAfEFcRkyuFXzonU&sourceid=chrome&ie=UTF-8&ved=2ahUKEwisjOjG8aeSAxW-FDQIHVJmH-QQgK4QegQIARAD)** is best for photographers and hikers seeking scenic, partially restored, and quieter, "wilder" sections. 2 to 3 hrs from Beijing
+	* **Mutianyu** is generally the top recommendation for a balance of stunning, restored views, fewer crowds than Badaling, and fun activities like a toboggan ride. 1.5 to 2 hrs from Beijing
 	* Badaling (八达岭) is most accessible by train/bus, fully restored, and close to the city. Extremely crowded, especially on weekends and holidays; often recommended to avoid. Quick, easy trips if you do not mind crowds.
-# Shanghai
+	* **[Jinshanling](https://www.google.com/search?q=Jinshanling&rlz=1C1UEAD_enUS1076US1076&oq=which+great+wall+&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyCggBEEUYFhgeGDkyDQgCEAAYkQIYgAQYigUyBwgDEAAYgAQyCAgEEAAYFhgeMggIBRAAGBYYHjIICAYQABgWGB4yCAgHEAAYFhgeMggICBAAGBYYHjIICAkQABgWGB7SAQgzNjE2ajBqOagCALACAfEFcRkyuFXzonU&sourceid=chrome&ie=UTF-8&ved=2ahUKEwisjOjG8aeSAxW-FDQIHVJmH-QQgK4QegQIARAD)** is best for photographers and hikers seeking scenic, partially restored, and quieter, "wilder" sections. 2 to 3 hrs from Beijing
+## Day 2 City South
+* Temple of Heaven
+* Shopping
+## Day 4 Summer Palace (Optional)
 
-Key places
-* The Bund and seeing Oriental Pearl Tower
-* Yu Yang Garden & Old City
-* Maglev Train
-* Zhujiajiao Ancient Town
-* Optional
-	* **Tianzifang/Xintiandi:**
-	* Shopping Nanjing Road
-	* Shanghai Disney
-	* Shanghai Museum (closed on Monday) - May be boring since the stuff is old
-	* Shanghai history municipal/ city museum - talks about how it became modernized, 1843 + communist takeover
-	* 
+* ~35min car from Beijing
 
-### **Day 1 – Arrival + The Bund (Iconic for a Reason)**
+## Food in Beijing
+* Peking duck
+* 
+# Travel to Chengdu or Xi'an
 
-- Check in, shake off jet lag.
-- **The Bund (外滩)** at dusk → skyline hits harder at night.
-- Walk toward **Lujiazui** across the river if you’ve got energy.
-- Dinner: classic Shanghainese
-    - _Jia Jia Tang Bao_ or _Lao Ji Shi_ (no frills, legit)
-**Skip:** river cruise unless it’s your first time in China ever.
-### **Day 2 – Yu Garden + Old Shanghai**
+Train Overnight Option
+* ~12 hours from Beijing to Chengdu
+* Deluxe package is about $300
 
-- **Yu Garden (豫园)** early before tour groups.
-- Wander **Yuyuan Bazaar** (yes it’s touristy; still worth it once).
-- Lunch: soup dumplings (xiaolongbao).
-- Afternoon: **Shanghai Museum** (People’s Square).
-- Evening stroll around **Xintiandi** (modern, clean, easy).
-### **Day 3 – French Concession (Best Part of the City)**
+Flight Beijing to Chengdu
+* ~3 hours from Beijing to Chengdu
+* Economy $150
 
-- Walk **Wukang Rd → Anfu Rd → Fuxing Park**.
-- Coffee, boutiques, tree-lined streets.
-- Lunch: casual Western or fusion here is actually good.
-- Evening: **Tianzifang** for artsy alleys + snacks. 
-### **Day 4 – Pudong: Skyscrapers & Scale**
+Flight Beijing -> Xian
+* ~2 hours
+* Economy $80
 
-- **Shanghai Tower** (highest observation deck in China).
-- Lujiazui mall wandering.
-- Afternoon break (you’ll need it).
-- Night view again from a different angle.
-**Optional:** Shanghai Aquarium if you like that stuff (not mandatory).
-### **Day 5 – Zhujiajiao Water Town (Half-Day Trip)**
+Flight Xian -> Chengdu
+* ~1.5 hours
+* Economy $150
 
-- 1 hr from downtown.
-- Old canals, stone bridges, slower pace.
-- Back to Shanghai by late afternoon.
-- Easy dinner near hotel.
+Train Day Trip
 
-### **Day 6 – Modern Shanghai + Shopping**
-
-- **M50 Art District** or **Power Station of Art**.
-- Shopping:
-    - **Nanjing Road** (chaotic but iconic)
-    - or **IAPM / IFC** if you want clean & modern.
-- Night: rooftop bar (Bund side).
 
 # Xi'An
 
-* 6 to 6.5 hours train ride from Shanghai
 
 ### Day 1 - Terracotta Warrior
 * Terracotta warrior
@@ -80,3 +76,11 @@ Key places
 - Biangbiang noodles, roujiamo, lamb skewers.
 ### Day 3 (Optional)
 - **Huaqing Palace** or **Mount Huashan** (if you’re fit and brave).
+
+
+# Chengdu
+
+* Kuanzhai alley
+* Jinli ancient street
+* People's Park
+* Bath house
