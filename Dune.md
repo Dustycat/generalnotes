@@ -39,3 +39,30 @@
 4. Fuel Cell
 5. Repair
 6. Water
+
+# Things TODO
+
+1. Anvil
+	1. https://www.method.gg/dune-awakening/planetologist-advanced-trainer-quest-guide-for-dune-awakening - either quest 4 or 5 may need to go to testing station 76
+	2. Finding Sehmo
+2. Main Base
+	1.  House Sor - **Pinnacle Station Tradepost in Jabal Eifrit Al-gharb**.
+	2.  Pick up sword and bring to main base
+	3.  
+3. Jabal Eifrit
+	1. House Mikkarol Landsraad - can be found **nestled into the cliffs just southwest of The Slant in Jabal Eifrit Al-Janub**.
+	2. House Imota - **cliff just over the border into Jabal Eifrit Al-sharq**.
+4. House Kenola - **just behind the Mass Kharet stronghold in Mysa Tarill**.
+5. Dee Desert
+	1. House Maros - **can be found in the Deep Desert**.
+6.  Arrakeen
+7. Harko Village
+	
+	
+## Completed
+
+1. Arrakeen
+	1. House Mutelli - **Arrakeen**
+	2. House Wallach - **Arrakeen** (southwest corner)
+2. Main Base
+	1. House Vernius - just off to the side of **Helius Gate in the Eastern Shield Wall**.

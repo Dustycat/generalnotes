@@ -7,6 +7,8 @@ ollama run model_name
 ```
 # Models
 
+Full list of models for ollama: https://ollama.com/library
+
 * **Best for Low-End Hardware:** `ollama run qwen2.5:1.5b` or `ollama run llama3.2` (3B).
 * For reasoning, math, or coding, **deepseek-r1 (specifically 7B or 14B)** is highly recommended. 
 * For a reliable general-purpose model, **Mistral (7B)** is also a top choice.
@@ -30,6 +32,18 @@ Thomas
 * Gemini3
 * opus4.7
 * perplexity
+
+Install model
+```
+ollama run model_name
+```
+
+If you don't want to run it yet
+```
+ollama pull model_name
+```
+
+
 
 # Managing Models
 
@@ -68,7 +82,11 @@ Copilot plugin
 export OLLAMA_ORIGINS="app://obsidian.md*"
 ```
 * Go Copilot plugin settings
-* 
+* ![[Pasted image 20260223174139.png]]
+* In the Model tab, select `+ Add Model`. For the field `Model Name`, you can go into a prompt and type `ollama list` for the available models.
+* ![[Pasted image 20260223174321.png]]
+* Set the default chat to your favorite model
+	![[Pasted image 20260223175124.png]]
 # Questions
 
 1. Can ollama access a URL?
